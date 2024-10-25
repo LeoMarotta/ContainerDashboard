@@ -1,4 +1,4 @@
-# dockerKubernetesAWS
+# Container Dashboard
 
 Este repositório contém códigos, cursos e referencias para meus estudos dos temas Java, Spring Boot, Spring Framework, Docker, Kubernetes e AWS em geral.
 
